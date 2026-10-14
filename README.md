@@ -1,4 +1,4 @@
-# DSA-project-
+# DSA-project
 # Online Exam Question Management System
 
 ## About the Project
